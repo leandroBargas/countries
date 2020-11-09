@@ -1,0 +1,31 @@
+Projeto react-countries - roteiro
+=================================
+
+(x) Back End
+   (x) Mostrar como countries.json foi montado 
+      com transform.js
+   
+(x) Front End 
+   
+   (x) App.js
+      (x) Mostrar roteamento com BrowserRouter, Switch e Route
+
+   (x) Mostrar countryApi.js
+
+   (x) Countries.js
+      (x) Mostrar state
+      (x) Mostrar effect 
+      (x) Mostrar renderização
+
+   (x) Country.js 
+      (x) Mostrar renderização
+      (x) Mostrar utilização do componente <Link />
+         de 'react-router'
+
+   (x) CountryDetail.js 
+      (x) Mostrar componentes ArrowLeft e ArrowRight
+      (x) Mostrar state
+      (x) Mostrar utilização de parâmetros da rota com useParams 
+      (x) Mostrar effect 
+      (x) Mostrar renderização
+      
